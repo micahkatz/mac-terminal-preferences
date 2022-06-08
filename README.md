@@ -7,7 +7,7 @@ Here are some steps to improve your terminal on **Mac OSX**. Of course all of th
 
 This is what my terminal looks like after adding everything
 
-<video src="assets/terminalZshIntro.mov
+<video src="assets/terminalZshIntro.gif
        "/>
 
 ### II. Configure zsh
