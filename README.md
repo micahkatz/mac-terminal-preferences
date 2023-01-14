@@ -7,7 +7,7 @@ Here are some steps to improve your terminal on **Mac OSX**. Of course all of th
 
 This is what my terminal looks like after adding everything
 
-![alt text](https://raw.githubusercontent.com/micahkatz/mac-terminal-preferences/main/assets/terminalZshIntro.gif)
+![Finished Terminal](https://raw.githubusercontent.com/micahkatz/mac-terminal-preferences/main/assets/terminalZshIntro.gif)
 
 ### II. Configure zsh
 
